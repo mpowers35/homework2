@@ -69,11 +69,9 @@ div{
 footer{
     background-color: #000000;
     text-align: right;
-    padding-right: 10px;
-    padding-bottom: 10px;
 }
 
-footer p{
+#footer p{
     padding-right: 10px;
     padding-bottom: 10px;
     padding-top 0px;
